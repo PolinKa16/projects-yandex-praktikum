@@ -13,11 +13,12 @@
 Pandas, Scikit-learn, бутстреп
 
 [Исследование технологического процесса очистки золота]()
+
 Цель:
-Определение наиболее выгодного региона нефтедобычи
+Спрогнозировать концентрацию золота при проведении процесса очистки золота
 
 Используемые инструменты:
-Pandas, Scikit-learn, бутстреп
+Python, Pandas, Matplotlib, NumPy, Scikit-learn, исследовательский анализ данных
 
 
 [Прогнозирование температуры плавления стали//Выпускной проект](https://github.com/PolinKa16/projects-yandex-praktikum/tree/main/Prediction_of_the_melting_temperature)
