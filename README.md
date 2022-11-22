@@ -3,6 +3,7 @@
 
 # Список проектов
 
+
 [Определение наиболее выгодного региона нефтедобычи](https://github.com/PolinKa16/projects-yandex-praktikum/tree/main/the%20most%20profitable%20oil%20production%20region)
 
 Цель:
@@ -11,6 +12,12 @@
 Используемые инструменты:
 Pandas, Scikit-learn, бутстреп
 
+[Исследование технологического процесса очистки золота]()
+Цель:
+Определение наиболее выгодного региона нефтедобычи
+
+Используемые инструменты:
+Pandas, Scikit-learn, бутстреп
 
 
 [Прогнозирование температуры плавления стали//Выпускной проект](https://github.com/PolinKa16/projects-yandex-praktikum/tree/main/Prediction_of_the_melting_temperature)
